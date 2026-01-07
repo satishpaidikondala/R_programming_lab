@@ -1,3 +1,5 @@
+# week1 exercise
+
 # Accesing information about the dataset
 ?VADeaths
 
