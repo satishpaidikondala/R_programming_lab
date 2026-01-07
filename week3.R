@@ -1,3 +1,5 @@
+#week3 exercise
+
 #laod the dataset
 AirPassengers
 
